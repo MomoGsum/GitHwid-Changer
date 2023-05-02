@@ -1,4 +1,4 @@
-# GitHWIDChanger-Private
+# Archive password: githwid
 
 # Screenshots
 ![изображение](https://user-images.githubusercontent.com/15806489/231292353-6ae236e6-6e0a-4fe3-b0e9-b276b3ea090a.png)
